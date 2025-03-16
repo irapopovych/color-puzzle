@@ -41,8 +41,8 @@ This application is built using a three-tier architecture running in Docker cont
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/irapopovych/colorpuzzle.git
-   cd colorpuzzle
+   git clone https://github.com/irapopovych/color-puzzle.git
+   cd color-puzzle
    ```
 
 2. Make the scripts executable:

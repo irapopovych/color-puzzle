@@ -2,8 +2,6 @@
 
 ColorPuzzle is a web-based puzzle game inspired by "I Love Hue" where players arrange color tiles to form a perfect gradient. The game allows users to choose their own 4 corner colors and grid size, creating a unique puzzle experience each time.
 
-<!-- ![ColorPuzzle Game](https://via.placeholder.com/800x450.png?text=ColorPuzzle+Game) -->
-
 ## Architecture
 
 This application is built using a three-tier architecture running in Docker containers:
@@ -22,8 +20,6 @@ This application is built using a three-tier architecture running in Docker cont
    - Port: 27017
    - Image: `mongo:6.0` from Docker Hub
    - Volume: `mongodb_data` for data persistence
-
-<!-- ![Architecture Diagram](https://via.placeholder.com/700x300.png?text=Application+Architecture) -->
 
 ## Inter-Service Communication
 

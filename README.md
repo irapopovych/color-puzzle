@@ -116,14 +116,6 @@ Toggle between the game view and history view using the button in the top-left c
    - History view fetches all games from the database
    - Users can refresh the list, delete games, or view detailed information
 
-## Troubleshooting
-
-- **Application won't start**: Check if the ports 3000, 5000, or 27017 are already in use
-- **Can't connect to backend**: Ensure the backend container is running with `docker ps`
-- **Data not persisting**: Verify the MongoDB volume was created correctly
-- **History not loading**: Check network connectivity between frontend and backend
-- **Game stats not updating**: Ensure proper API calls are being made after moves
-
 ## Technical Details
 
 ### Container Configuration

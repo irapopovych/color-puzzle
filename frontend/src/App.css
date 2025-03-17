@@ -707,18 +707,16 @@ select:focus {
 }
 
 .instructions-modal {
-  .instructions-modal {
-    background: #fff;
-    border-radius: 15px;
-    box-shadow: 0 15px 50px #0000004d;
-    max-height: 730px;
-    max-width: 600px;
-    text-align: left;
-    padding: 25px;
-    margin-top: 65px;
-    width: 95%;
-    box-sizing: unset;
-  }
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 15px 50px #0000004d;
+  max-height: 730px;
+  max-width: 600px;
+  text-align: left;
+  padding: 25px;
+  margin-top: 65px;
+  width: 95%;
+  box-sizing: unset;
 }
 
 .instructions-modal h2 {
